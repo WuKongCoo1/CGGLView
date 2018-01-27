@@ -1,0 +1,6 @@
+framework module CGGLView {
+  umbrella header "CGGLView-umbrella.h"
+
+  export *
+  module * { export * }
+}

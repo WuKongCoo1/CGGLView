@@ -1,0 +1,6 @@
+framework module Pods_CGGLView_Tests {
+  umbrella header "Pods-CGGLView_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
