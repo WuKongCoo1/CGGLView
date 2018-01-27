@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CGGLView_Tests' do
+  pod 'CGGLView', :path => '../'
+  
+  
+end
